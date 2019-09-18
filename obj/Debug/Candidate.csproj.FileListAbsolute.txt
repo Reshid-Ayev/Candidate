@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Program-10\Socar\Candidate\obj\Debug\Candidate.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Program-10\Socar\Candidate\obj\Debug\Candidate.frmCandidateLogin.resources
+C:\Users\user\Desktop\Program-10\Socar\Candidate\obj\Debug\Candidate.Properties.Resources.resources
+C:\Users\user\Desktop\Program-10\Socar\Candidate\obj\Debug\Candidate.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Program-10\Socar\Candidate\obj\Debug\Candidate.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Program-10\Socar\Candidate\bin\Debug\Candidate.exe.config
+C:\Users\user\Desktop\Program-10\Socar\Candidate\bin\Debug\Candidate.exe
+C:\Users\user\Desktop\Program-10\Socar\Candidate\bin\Debug\Candidate.pdb
+C:\Users\user\Desktop\Program-10\Socar\Candidate\obj\Debug\Candidate.frmCandidateExam.resources
+C:\Users\user\Desktop\Program-10\Socar\Candidate\obj\Debug\Candidate.exe
+C:\Users\user\Desktop\Program-10\Socar\Candidate\obj\Debug\Candidate.pdb
+C:\Users\user\Desktop\Program-10\Socar\Candidate\obj\Debug\Candidate.frmResult.resources
